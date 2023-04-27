@@ -242,6 +242,12 @@
   margin: 0;
 }
 
+.staff__image {
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+}
+
 .staff__unordered-list {
   display: flex;
   flex-wrap: wrap;
