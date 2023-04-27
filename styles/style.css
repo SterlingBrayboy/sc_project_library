@@ -252,10 +252,10 @@
 .staff__unordered-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 40px;
   max-width: 760px;
-  margin-top: 68px;
   margin: 0 auto;
+  margin-top: 68px;
+  gap: 40px;
   list-style-type: none;
   padding: 0;
 }
@@ -267,7 +267,6 @@
   box-sizing: border-box;
   height: 420px;
   width: 360px;
-  margin-top: 68px;
 }
 
 .card__content {
@@ -356,6 +355,7 @@
 
 .about__title {
   max-width: 154px;
+  padding-right: 120px;
   margin: 0;
   font-size: 20px;
   line-height: 30px;
