@@ -26,16 +26,22 @@
   width: 196px;
 }
 
+.nav__link {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav__link:hover {
+  color: #1f69c9;
+}
+
 .nav__links {
   display: flex;
   column-gap: 20px;
   list-style: none;
   padding: 0;
   justify-content: flex-end;
-}
-
-.nav__links:hover {
-  color: #1f69c9;
 }
 
 .header__title {
@@ -427,6 +433,7 @@
 }
 
 .footer__column-heading {
+  margin: 0;
   padding-bottom: 20px;
 }
 
@@ -442,10 +449,11 @@
 }
 
 .footer__social-icon {
-  width: 16px;
   height: 16px;
+  width: 16px;
 }
 
 .footer__copyright {
   padding-top: 108px;
+  font-weight: normal;
 }
