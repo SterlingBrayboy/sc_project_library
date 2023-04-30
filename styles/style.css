@@ -261,7 +261,7 @@
   margin: 0;
 }
 
-.staff__unordered-list {
+.staff__cards {
   display: flex;
   flex-wrap: wrap;
   max-width: 760px;
