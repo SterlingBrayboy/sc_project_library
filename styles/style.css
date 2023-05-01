@@ -448,10 +448,6 @@
   text-decoration: none;
 }
 
-.footer__column-link:hover {
-  color: #1f69c9;
-}
-
 .footer__social-icon {
   height: 16px;
   width: 16px;
