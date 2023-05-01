@@ -387,7 +387,7 @@
   margin: 0 0 32px;
 }
 
-.about__paragraph_last-child {
+.about__paragraph:last-child {
   margin: 0;
 }
 
@@ -448,7 +448,7 @@
   margin-top: 16px;
 }
 
-.footer__list-item_last-child {
+.footer__list-item:last-child {
   margin-bottom: 0;
 }
 
