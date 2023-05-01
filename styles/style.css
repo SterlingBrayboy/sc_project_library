@@ -387,7 +387,7 @@
   margin: 0 0 32px;
 }
 
-p:last-child {
+.about__paragraph_last-child {
   margin: 0;
 }
 
@@ -406,7 +406,7 @@ p:last-child {
   box-sizing: border-box;
   background-color: #1f1f1f;
   color: #fff;
-  padding: 60px 102px 80px;
+  padding: 60px 102px 60px 80px;
   font-size: 16px;
   line-height: 20px;
   min-height: 224px;
@@ -445,7 +445,11 @@ p:last-child {
 }
 
 .footer__list-item {
-  margin-bottom: 16px;
+  margin-top: 16px;
+}
+
+.footer__list-item_last-child {
+  margin-bottom: 0;
 }
 
 .footer__column-link {
