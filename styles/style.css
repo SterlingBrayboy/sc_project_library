@@ -423,7 +423,6 @@
 .footer__logo {
   width: 116px;
   height: 21px;
-  margin-bottom: 108px;
 }
 
 .footer__list {
@@ -456,4 +455,5 @@
 
 .footer__copyright {
   font-weight: normal;
+  margin-top: 108px;
 }
