@@ -423,6 +423,7 @@
 .footer__logo {
   width: 116px;
   height: 21px;
+  margin-bottom: 108px;
 }
 
 .footer__list {
@@ -447,6 +448,10 @@
   text-decoration: none;
 }
 
+.footer__column-link:hover {
+  color: #1f69c9;
+}
+
 .footer__social-icon {
   height: 16px;
   width: 16px;
@@ -455,5 +460,5 @@
 
 .footer__copyright {
   font-weight: normal;
-  margin-top: 108px;
+  margin: 0;
 }
