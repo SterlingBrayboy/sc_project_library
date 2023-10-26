@@ -1,6 +1,6 @@
-# Project 1: Practicum Library
+# Library Landing Page
 
-The Practicum Library webpage is the first project in the Software Engineer program at Practicum. It was created using HTML and CSS, based on a design brief.
+The Library Landing Page was created using HTML and CSS, based on a design brief.
 
 ## Project features
 
@@ -11,4 +11,4 @@ The Practicum Library webpage is the first project in the Software Engineer prog
 
 ## See For Yourself
 
-[Practicum Library](https://sterlingbrayboy.github.io/sc_project_library/)
+[Library Landing Page](https://sterlingbrayboy.github.io/sc_project_library/)
